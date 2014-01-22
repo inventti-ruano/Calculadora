@@ -306,11 +306,5 @@ namespace ProgramaCalculadora.cs.Testes
 
             Assert.AreEqual(resultado, 5);
         }
-
-        [Test]
-        public void montar_objeto_calculadora_com_mock()
-        {
-            var calc = new Mock<Calculadora>();
-        }
     }
 }
