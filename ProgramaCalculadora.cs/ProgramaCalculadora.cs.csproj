@@ -37,6 +37,9 @@
     <Reference Include="FluentAssertions">
       <HintPath>libs\FluentAssertions.dll</HintPath>
     </Reference>
+    <Reference Include="Moq">
+      <HintPath>libs\Moq.dll</HintPath>
+    </Reference>
     <Reference Include="nunit.framework">
       <HintPath>libs\nunit.framework.dll</HintPath>
     </Reference>
